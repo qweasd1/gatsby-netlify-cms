@@ -7,8 +7,6 @@ import FooterPreview from "./preview-templates/FooterPreview";
 import NavbarPreview from "./preview-templates/NavbarPreview";
 import PastMeetupsPagePreview from "./preview-templates/PastMeetupsPagePreview";
 
-
-
 CMS.registerPreviewTemplate("meetups", MeetupPreview);
 CMS.registerPreviewTemplate("footer", FooterPreview);
 CMS.registerPreviewTemplate("navbar", NavbarPreview);
